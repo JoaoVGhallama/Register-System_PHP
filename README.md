@@ -1,2 +1,2 @@
-# Register-System_PHP
-Sistema de registro usando PHP e MySQL
+Register-System_PHP
+Registration system using PHP and MySQL
